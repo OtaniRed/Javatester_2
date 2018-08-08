@@ -1,3 +1,5 @@
+package ru.stg.pft.sandbox;
+
 public class myfirstprogram
 {
    public static void main(String[] args)
