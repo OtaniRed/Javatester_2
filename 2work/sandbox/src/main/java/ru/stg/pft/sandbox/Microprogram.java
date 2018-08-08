@@ -1,6 +1,6 @@
 package ru.stg.pft.sandbox;
 
-public class Myfirstprogram
+public class Microprogram
 {
   public static void main(String[] args)
   {
